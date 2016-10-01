@@ -1,6 +1,5 @@
-Information on Perl Interview questions on topics like : use, require, scope, lexical, local, do, use lib, @ISA, @INC, %INC, module, package, Exporter Module, use vars, environment variables, type glob, modifiers, mod-perl, Use vs Require, Perl Vs Mod-Perl, Push vs Pop, Chop vs Chomp, Tie Concept, Tie::Scalar, Tie::File, Tie::Scalar File::ReadBackawards etc........
+Information on Perl  on topics like : use, require, scope, lexical, local, do, use lib, @ISA, @INC, %INC, module, package, Exporter Module, use vars, environment variables, type glob, modifiers, mod-perl, Use vs Require, Perl Vs Mod-Perl, Push vs Pop, Chop vs Chomp, Tie Concept, Tie::Scalar, Tie::File, Tie::Scalar File::ReadBackawards etc........
 
-By Prabhath
 
 Perl is Compiler/Interpreter ?
 Every Perl program must be passed through the Perl interpreter in order to execute. The first line in many Perl programs is something like:
